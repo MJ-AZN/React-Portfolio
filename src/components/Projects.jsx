@@ -4,17 +4,17 @@ const Projects = () => {
   const projects = [
     {
       name: 'Empty Your Fridge',
-      image: '/src/assets/EmptyYourFridge.png',
+      image: './src/assets/EmptyYourFridge.png',
       link: 'https://mj-azn.github.io/Empty-Your-Fridge/'
     },
     {
       name: 'Forecast Genius',
-      image: '/src/assets/ForecastGenius.png',
+      image: './src/assets/ForecastGenius.png',
       link: 'https://mj-azn.github.io/Forecast-Genius-Weather-App/'
     },
     {
       name: 'Work Day Scheduler',
-      image: '/src/assets/WorkDayScheduler.png',
+      image: './src/assets/WorkDayScheduler.png',
       link: 'https://mj-azn.github.io/Nichijou-daily-schedule/'
     }
   ];

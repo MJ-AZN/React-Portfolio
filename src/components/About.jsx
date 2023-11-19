@@ -6,7 +6,7 @@ const About = () => {
       <h2 className="text-3xl font-bold mb-4">About Me</h2>
       <div className="flex items-center mb-4">
         <img
-          src="/src/assets/BlueSuit.jpg"
+          src="./src/assets/BlueSuit.jpg"
           alt="Your Name"
           className="w-64 h-64 rounded-full mr-4"
         />
